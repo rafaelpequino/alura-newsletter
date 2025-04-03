@@ -1,3 +1,4 @@
 # ALURA NEWSLETTER
 
-## Utilização de Tailwind CSS
+## Utilização de Tailwind CSS por CDN
+
